@@ -112,6 +112,5 @@ https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/in
 #EXTINF:-1 tvg-id="RealityChannel.il" tvg-name="Reshet 13 Reality" tvg-logo="https://antifriz.tv/storage/images/channel_logos/af4d79860fac6150c73b294bd4643667.png" group-title="בידור",רשת 13 ריאלטי
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
 
-
-
-
+#EXTINF:-1 group-title="ספורט",ספורט 5 STARS (בדיקה)
+https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport5-star
