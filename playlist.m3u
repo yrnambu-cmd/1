@@ -1,1 +1,117 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="Channel11.il" tvg-name="Kan 11" tvg-logo="https://www.yes.co.il/media/cmjhsfuq/11_kan.png?quality=80" group-title="חדשות",כאן 11
+https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel12.il" tvg-name="Keshet 12" tvg-logo="https://www.yes.co.il/media/j3il1pcy/12_keshet.png?quality=80" group-title="חדשות",קשת 12
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=60000
+
+#EXTINF:-1 tvg-id="Channel13.il" tvg-name="Reshet 13" tvg-logo="https://www.yes.co.il/media/3gah1fim/13_reshet.png?quality=80" group-title="חדשות",רשת 13
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000
+
+#EXTINF:-1 tvg-id="Channel14.il" tvg-name="Channel 14" tvg-logo="https://www.yes.co.il/media/d40bpqwx/14_channel14-white_yesplus.png?quality=80" group-title="חדשות",ערוץ 1
+https://n-121-6.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="i24News.il" tvg-name="i24 News" tvg-logo="https://www.yes.co.il/media/xhreq3vn/15_i24_white.png?quality=80" group-title="חדשות",i24 NEWS
+https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8?__nn__=5476555825001&hdnea=st=1769767200~exp=1769770800~acl=/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/*~hmac=669cae37d49ea66f341af34caa68e6bd150f8cd4b1a1c49ad6139f6ed4530779
+
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel 9" tvg-logo="https://www.yes.co.il/media/djffuizm/9_channel9.png?quality=80" group-title="חדשות",ערוץ 9
+                                                
+
+#EXTINF:-1 tvg-id="Knesset.il" tvg-name="Knesset Channel" tvg-logo="https://www.yes.co.il/media/4psj0lda/99_knesset_new.png?quality=80" group-title="חדשות",ערוץ הכנסת
+                                                
+
+
+#EXTINF:-1 tvg-id="BigBrother.il" tvg-name="האח הגדול" tvg-logo="https://i.postimg.cc/Dz5T6B1F/IMG-6230.png" group-title="ריאלטי",האח הגדול
+https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/master.m3u8
+
+#EXTINF:-1 tvg-id="Sport1.il" tvg-name="Sport 1" tvg-logo="https://antifriz.tv/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png" group-title="ספורט",ספורט 1
+https://cors-anywhere.fly.dev/http://185.132.134.159/sport1/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.il" tvg-name="Sport 2" tvg-logo="https://antifriz.tv/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png" group-title="ספורט",ספורט 2
+https://cors-anywhere.fly.dev/http://185.132.134.159/sport12/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport3.il" tvg-name="Sport 3" tvg-logo="https://antifriz.tv/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png" group-title="ספורט",ספורט 3
+https://cors-anywhere.fly.dev/http://185.132.134.159/sport3/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="https://antifriz.tv/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png" group-title="ספורט",ספורט 4
+https://cors-anywhere.fly.dev/http://185.132.134.159/sport4/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport6.il" tvg-name="Sport 6" tvg-logo="https://www.yes.co.il/media/bcwho30d/64_sport6_200x200.png?quality=80" group-title="ספורט",ספורט 6
+https://cors-anywhere.fly.dev/http://185.132.134.159/sport6/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport5.il" tvg-name="Sport 5" tvg-logo="https://www.yes.co.il/media/cwbnbjzc/55_5sport_white-new.png?quality=80" group-title="ספורט",ספורט 5
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=60000
+
+#EXTINF:-1 tvg-id="Sport5Plus.il" tvg-name="Sport 5 Plus" tvg-logo="https://www.yes.co.il/media/fe4nfkhy/56_5plus_white-new.png?quality=80" group-title="ספורט",ספורט 5 PLUS
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_plus_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=60000
+
+#EXTINF:-1 tvg-id="Sport5Gold.il" tvg-name="Sport 5 Gold" tvg-logo="https://www.yes.co.il/media/r1uldzru/57_5gold_white-new.png?quality=80" group-title="ספורט",ספורט 5 GOLD
+https://cors-anywhere.fly.dev/http://185.132.134.159/sport5gold/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport5Live.il" tvg-name="Sport 5 Live" tvg-logo="https://www.yes.co.il/media/t3bhztnq/58_5live_white-new.png?quality=80" group-title="ספורט",ספורט 5 LIVE
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_live_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=60000
+
+#EXTINF:-1 tvg-id="Sport5Stars.il" tvg-name="Sport 5 Stars" tvg-logo="https://www.yes.co.il/media/nwnlscky/59_5stars_white-new.png?quality=80" group-title="ספורט",ספורט 5 STARS
+https://cors-anywhere.fly.dev/http://185.132.134.159/sport5stars/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport5Max.il" tvg-name="Sport 5 Max" tvg-logo="https://www.yes.co.il/media/ea4h1fs5/60_5max_200x200.png?quality=80" group-title="ספורט",ספורט 5 MAX
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_max_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=60000
+
+#EXTINF:-1 tvg-id="One1.il" tvg-name="ONE" tvg-logo="https://www.yes.co.il/media/eytkbegf/one.png?quality=80" group-title="ספורט",ONE
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_1_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=60000
+
+#EXTINF:-1 tvg-id="One2.il" tvg-name="ONE 2" tvg-logo="https://www.yes.co.il/media/32md4sw1/one2.png?quality=80" group-title="ספורט",ONE 2
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_2_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=60000
+
+#EXTINF:-1 tvg-id="OneEdge.il" tvg-name="ONE EDGE" tvg-logo="https://www.yes.co.il/media/xq0bork1/70_one-edge_200-200.png" group-title="ספורט",ONE EDGE
+https://tv.embyil.tv:86/live/200/chunks.m3u8
+
+#EXTINF:-1 tvg-id="OneDoco.il" tvg-name="ONE DOCO" tvg-logo="https://www.yes.co.il/media/t04avcg1/one_doco.png" group-title="ספורט",ONE DOCO
+https://ua002.online24.pm:8443/1780/tracks-v1a1/mono.m3u8?token=011DA7D495A486A
+
+#EXTINF:-1 tvg-id="Eurosport1.il" tvg-name="Eurosport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Eurosport_1_Germany.png" group-title="ספורט",Eurosport 1
+https://tv.embyil.tv:86/live/180/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.il" tvg-name="Eurosport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xspptq1458425622.png" group-title="ספורט",Eurosport 2
+https://tv.embyil.tv:86/live/190/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://freelogopng.com/images/all_img/1684148963espn-logo-white.png" group-title="ספורט",ESPN
+https://canais.fazoeli.co.za/fontes/smart/espn.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://www.pngkey.com/png/full/210-2102273_espn-2-white-espn-logo.png" group-title="ספורט",ESPN 2
+https://canais.fazoeli.co.za/fontes/smart/espn2.m3u8
+
+#EXTINF:-1 tvg-id="BeinSportsXtra.il" tvg-name="beIN Sports Xtra" tvg-logo="                                                                  " group-title="ספורט",beIN Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="Hot3.il" tvg-name="HOT3" tvg-logo="https://antifriz.tv/storage/images/pack_logos/74c1c0d13bf5172b80ddf344979cf483.png" group-title="בידור",HOT3
+https://cors-anywhere.fly.dev/http://185.132.134.159/hot3/index.m3u8
+
+#EXTINF:-1 tvg-id="Hot8.il" tvg-name="HOT 8" tvg-logo="https://antifriz.tv/storage/images/pack_logos/8ecc8229a90fce1c1181cb721bcb75dd.png" group-title="בידור",HOT 8
+https://tv.embyil.tv:86/live/280/chunks.m3u8
+
+#EXTINF:-1 tvg-id="YesIsraeliCinema.il" tvg-name="YES Israeli Cinema HD" tvg-logo="https://antifriz.tv/storage/images/channel_logos/51bab34478e89391032e2dfd1c501f42.png" group-title="בידור",YES ישראלי
+https://tv.embyil.tv:86/live/355/chunks.m3u8
+
+#EXTINF:-1 tvg-id="KanChinuchit23.il" tvg-name="Kan Chinuchit 23" tvg-logo="https://www.yes.co.il/media/2cdphicb/80_hinuchit-new.png?quality=80" group-title="ילדים",כאן חינוכית
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?renditions&fmp4
+
+#EXTINF:-1 tvg-id="Channel24.il" tvg-name="Channel 24" tvg-logo="https://www.yes.co.il/media/t2kh1luo/24_channel24-yesplus-white.png?quality=80" group-title="מוזיקה",ערוץ 24
+https://tv.embyil.tv:86/live/51/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Kalkala10.il" tvg-name="Kalkala 10" tvg-logo="https://www.yes.co.il/media/ytsdz2jr/10_calcala10_web.png?quality=80" group-title="כלכלה",ערוץ 10
+https://n-121-6.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyChannel.il" tvg-name="Reshet 13 Comedy" tvg-logo="https://i.postimg.cc/Vk1dGwFZ/75-removebg-preview.png" group-title="בידור",רשת 13 קומדיה
+https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+
+#EXTINF:-1 tvg-id="NofeshChannel.il" tvg-name="Reshet 13 Nofesh" tvg-logo="https://antifriz.tv/storage/images/channel_logos/802d7d50d6f1edf6963ee06db13ce064.png" group-title="בידור",רשת 13 נופש
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
+
+#EXTINF:-1 tvg-id="RealityChannel.il" tvg-name="Reshet 13 Reality" tvg-logo="https://antifriz.tv/storage/images/channel_logos/af4d79860fac6150c73b294bd4643667.png" group-title="בידור",רשת 13 ריאלטי
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
+
+
+
+
