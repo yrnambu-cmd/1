@@ -53,9 +53,6 @@ https://cors-anywhere.fly.dev/http://185.132.134.159/sport5gold/index.m3u8
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_live_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=60000
 
 #EXTINF:-1 tvg-id="Sport5Stars.il" tvg-name="Sport 5 Stars" tvg-logo="https://www.yes.co.il/media/nwnlscky/59_5stars_white-new.png?quality=80" group-title="ספורט",ספורט 5 STARS
-https://cors-anywhere.fly.dev/http://185.132.134.159/sport5stars/index.m3u8
-
-#EXTINF:-1 tvg-id="Sport5StarsAlt.il" tvg-name="Sport 5 Stars Alternate" tvg-logo="https://www.yes.co.il/media/nwnlscky/59_5stars_white-new.png?quality=80" group-title="ספורט",ספורט 5 STARS חלופי
 https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport5-star
 
 #EXTINF:-1 tvg-id="Sport5Max.il" tvg-name="Sport 5 Max" tvg-logo="https://www.yes.co.il/media/ea4h1fs5/60_5max_200x200.png?quality=80" group-title="ספורט",ספורט 5 MAX
