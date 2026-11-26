@@ -9,21 +9,20 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/liv
 #EXTINF:-1 tvg-id="Channel13.il" tvg-name="Reshet 13" tvg-logo="https://www.yes.co.il/media/3gah1fim/13_reshet.png?quality=80" group-title="חדשות",רשת 13
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000
 
-#EXTINF:-1 tvg-id="Channel14.il" tvg-name="Channel 14" tvg-logo="https://www.yes.co.il/media/d40bpqwx/14_channel14-white_yesplus.png?quality=80" group-title="חדשות",ערוץ 1
+#EXTINF:-1 tvg-id="Channel14.il" tvg-name="Channel 14" tvg-logo="https://www.yes.co.il/media/d40bpqwx/14_channel14-white_yesplus.png?quality=80" group-title="חדשות",ערוץ 14
 https://n-121-6.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel16.il" tvg-name="ערוץ 16" tvg-logo="https://raw.githubusercontent.com/yrnambu-cmd/1/main/logos/channel16.png" group-title="חדשות",ערוץ 16
+https://ch16israel-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="i24News.il" tvg-name="i24 News" tvg-logo="https://www.yes.co.il/media/xhreq3vn/15_i24_white.png?quality=80" group-title="חדשות",i24 NEWS
 https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8?__nn__=5476555825001&hdnea=st=1769767200~exp=1769770800~acl=/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/*~hmac=669cae37d49ea66f341af34caa68e6bd150f8cd4b1a1c49ad6139f6ed4530779
 
 #EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel 9" tvg-logo="https://www.yes.co.il/media/djffuizm/9_channel9.png?quality=80" group-title="חדשות",ערוץ 9
-                                                
+https://contact.gostreaming.tv/Con-11/index.m3u8
 
 #EXTINF:-1 tvg-id="Knesset.il" tvg-name="Knesset Channel" tvg-logo="https://www.yes.co.il/media/4psj0lda/99_knesset_new.png?quality=80" group-title="חדשות",ערוץ הכנסת
-                                                
-
-
-#EXTINF:-1 tvg-id="BigBrother.il" tvg-name="האח הגדול" tvg-logo="https://i.postimg.cc/Dz5T6B1F/IMG-6230.png" group-title="ריאלטי",האח הגדול
-https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/master.m3u8
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport1.il" tvg-name="Sport 1" tvg-logo="https://antifriz.tv/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png" group-title="ספורט",ספורט 1
 https://cors-anywhere.fly.dev/http://185.132.134.159/sport1/index.m3u8
@@ -82,8 +81,11 @@ https://canais.fazoeli.co.za/fontes/smart/espn.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://www.pngkey.com/png/full/210-2102273_espn-2-white-espn-logo.png" group-title="ספורט",ESPN 2
 https://canais.fazoeli.co.za/fontes/smart/espn2.m3u8
 
-#EXTINF:-1 tvg-id="BeinSportsXtra.il" tvg-name="beIN Sports Xtra" tvg-logo="                                                                  " group-title="ספורט",beIN Sports Xtra
+#EXTINF:-1 tvg-id="BeinSportsXtra.il" tvg-name="beIN Sports Xtra" tvg-logo="https://raw.githubusercontent.com/yrnambu-cmd/1/main/logos/bein-xtra.png" group-title="ספורט",beIN Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="NBCSports.us" tvg-name="NBC SPORT" tvg-logo="https://raw.githubusercontent.com/yrnambu-cmd/1/main/logos/nbc-sports.png" group-title="ספורט",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="Hot3.il" tvg-name="HOT3" tvg-logo="https://antifriz.tv/storage/images/pack_logos/74c1c0d13bf5172b80ddf344979cf483.png" group-title="בידור",HOT3
 https://cors-anywhere.fly.dev/http://185.132.134.159/hot3/index.m3u8
@@ -94,6 +96,18 @@ https://tv.embyil.tv:86/live/280/chunks.m3u8
 #EXTINF:-1 tvg-id="YesIsraeliCinema.il" tvg-name="YES Israeli Cinema HD" tvg-logo="https://antifriz.tv/storage/images/channel_logos/51bab34478e89391032e2dfd1c501f42.png" group-title="בידור",YES ישראלי
 https://tv.embyil.tv:86/live/355/chunks.m3u8
 
+#EXTINF:-1 tvg-id="ComedyChannel.il" tvg-name="Reshet 13 Comedy" tvg-logo="https://i.postimg.cc/Vk1dGwFZ/75-removebg-preview.png" group-title="בידור",רשת 13 קומדיה
+https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+
+#EXTINF:-1 tvg-id="NofeshChannel.il" tvg-name="Reshet 13 Nofesh" tvg-logo="https://antifriz.tv/storage/images/channel_logos/802d7d50d6f1edf6963ee06db13ce064.png" group-title="בידור",רשת 13 נופש
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
+
+#EXTINF:-1 tvg-id="RealityChannel.il" tvg-name="Reshet 13 Reality" tvg-logo="https://antifriz.tv/storage/images/channel_logos/af4d79860fac6150c73b294bd4643667.png" group-title="בידור",רשת 13 ריאלטי
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
+
+#EXTINF:-1 tvg-id="BigBrother.il" tvg-name="האח הגדול" tvg-logo="https://i.postimg.cc/Dz5T6B1F/IMG-6230.png" group-title="ריאלטי",האח הגדול
+https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/master.m3u8
+
 #EXTINF:-1 tvg-id="KanChinuchit23.il" tvg-name="Kan Chinuchit 23" tvg-logo="https://www.yes.co.il/media/2cdphicb/80_hinuchit-new.png?quality=80" group-title="ילדים",כאן חינוכית
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?renditions&fmp4
 
@@ -103,11 +117,35 @@ https://tv.embyil.tv:86/live/51/chunks.m3u8
 #EXTINF:-1 tvg-id="Kalkala10.il" tvg-name="Kalkala 10" tvg-logo="https://www.yes.co.il/media/ytsdz2jr/10_calcala10_web.png?quality=80" group-title="כלכלה",ערוץ 10
 https://n-121-6.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ComedyChannel.il" tvg-name="Reshet 13 Comedy" tvg-logo="https://i.postimg.cc/Vk1dGwFZ/75-removebg-preview.png" group-title="בידור",רשת 13 קומדיה
-https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+#EXTINF:-1 tvg-id="Radio5.il" tvg-name="Radio 5" tvg-logo="https://raw.githubusercontent.com/yrnambu-cmd/1/main/logos/radio5.png" group-title="רדיו",רדיו ספורט 5
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlistMain_2_.m3u8
 
-#EXTINF:-1 tvg-id="NofeshChannel.il" tvg-name="Reshet 13 Nofesh" tvg-logo="https://antifriz.tv/storage/images/channel_logos/802d7d50d6f1edf6963ee06db13ce064.png" group-title="בידור",רשת 13 נופש
-https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
+#EXTINF:-1 tvg-id="Channel13.il.alt" tvg-name="Reshet 13 Alternate" tvg-logo="https://www.yes.co.il/media/3gah1fim/13_reshet.png?quality=80" group-title="שידורים חלופיים",רשת 13 חלופי
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_1.m3u8
 
-#EXTINF:-1 tvg-id="RealityChannel.il" tvg-name="Reshet 13 Reality" tvg-logo="https://antifriz.tv/storage/images/channel_logos/af4d79860fac6150c73b294bd4643667.png" group-title="בידור",רשת 13 ריאלטי
-https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
+#EXTINF:-1 tvg-id="Sport1.il.alt" tvg-name="Sport 1 Alternate" tvg-logo="https://antifriz.tv/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png" group-title="שידורים חלופיים",ספורט 1 חלופי
+https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport-1
+
+#EXTINF:-1 tvg-id="Sport2.il.alt" tvg-name="Sport 2 Alternate" tvg-logo="https://antifriz.tv/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png" group-title="שידורים חלופיים",ספורט 2 חלופי
+https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport-2
+
+#EXTINF:-1 tvg-id="Sport3.il.alt" tvg-name="Sport 3 Alternate" tvg-logo="https://antifriz.tv/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png" group-title="שידורים חלופיים",ספורט 3 חלופי
+https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport-3
+
+#EXTINF:-1 tvg-id="Sport4.il.alt" tvg-name="Sport 4 Alternate" tvg-logo="https://antifriz.tv/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png" group-title="שידורים חלופיים",ספורט 4 חלופי
+https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport-4
+
+#EXTINF:-1 tvg-id="Sport5.il.alt" tvg-name="Sport 5 Alternate" tvg-logo="https://www.yes.co.il/media/cwbnbjzc/55_5sport_white-new.png?quality=80" group-title="שידורים חלופיים",ספורט 5 חלופי
+https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport-5
+
+#EXTINF:-1 tvg-id="Sport5Plus.il.alt" tvg-name="Sport 5 Plus Alternate" tvg-logo="https://www.yes.co.il/media/fe4nfkhy/56_5plus_white-new.png?quality=80" group-title="שידורים חלופיים",ספורט 5 PLUS חלופי
+https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport5-plus
+
+#EXTINF:-1 tvg-id="Sport5Gold.il.alt" tvg-name="Sport 5 Gold Alternate" tvg-logo="https://www.yes.co.il/media/r1uldzru/57_5gold_white-new.png?quality=80" group-title="שידורים חלופיים",ספורט 5 GOLD חלופי
+https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport-5-gold
+
+#EXTINF:-1 tvg-id="Sport5Live.il.alt" tvg-name="Sport 5 Live Alternate" tvg-logo="https://www.yes.co.il/media/t3bhztnq/58_5live_white-new.png?quality=80" group-title="שידורים חלופיים",ספורט 5 LIVE חלופי
+https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport5-live
+
+#EXTINF:-1 tvg-id="One1.il.alt" tvg-name="ONE Alternate" tvg-logo="https://www.yes.co.il/media/eytkbegf/one.png?quality=80" group-title="שידורים חלופיים",ONE חלופי
+https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=one-sport1
