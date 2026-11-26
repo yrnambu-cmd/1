@@ -57,7 +57,7 @@ https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport
 #EXTINF:-1 tvg-id="Sport5Max.il" tvg-name="Sport 5 Max" tvg-logo="https://www.yes.co.il/media/ea4h1fs5/60_5max_200x200.png?quality=80" group-title="ספורט",ספורט 5 MAX
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5Sport4K.il@SD" tvg-logo="https://i.imgur.com/Msfhpqd.png" group-title="ספורט",ספורט 5 4K (1080p)
+#EXTINF:-1 tvg-id="5Sport4K.il@SD" tvg-logo="https://www.yes.co.il/media/fl1kmdoo/60_5sport4k_white-new.png?quality=80" group-title="ספורט",ספורט 5 4K (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="One1.il" tvg-name="ONE" tvg-logo="https://www.yes.co.il/media/eytkbegf/one.png?quality=80" group-title="ספורט",ONE
