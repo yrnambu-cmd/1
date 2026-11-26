@@ -120,32 +120,32 @@ https://n-121-6.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.
 #EXTINF:-1 tvg-id="Radio5.il" tvg-name="Radio 5" tvg-logo="https://raw.githubusercontent.com/yrnambu-cmd/1/main/logos/radio5.png" group-title="רדיו",רדיו ספורט 5
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlistMain_2_.m3u8
 
-#EXTINF:-1 tvg-id="Channel13.il.alt" tvg-name="Reshet 13 Alternate" tvg-logo="https://www.yes.co.il/media/3gah1fim/13_reshet.png?quality=80" group-title="שידורים חלופיים",רשת 13 חלופי
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_1.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="חדשות בינלאומיות",ABC News Live
+https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 
-#EXTINF:-1 tvg-id="Sport1.il.alt" tvg-name="Sport 1 Alternate" tvg-logo="https://antifriz.tv/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png" group-title="שידורים חלופיים",ספורט 1 חלופי
-https://cors-anywhere.fly.dev/http://185.132.134.159/sport1/index.m3u8
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="חדשות בינלאומיות",CBS News 24/7
+https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 
-#EXTINF:-1 tvg-id="Sport2.il.alt" tvg-name="Sport 2 Alternate" tvg-logo="https://antifriz.tv/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png" group-title="שידורים חלופיים",ספורט 2 חלופי
-https://cors-anywhere.fly.dev/http://185.132.134.159/sport12/index.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="חדשות בינלאומיות",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="Sport3.il.alt" tvg-name="Sport 3 Alternate" tvg-logo="https://antifriz.tv/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png" group-title="שידורים חלופיים",ספורט 3 חלופי
-https://cors-anywhere.fly.dev/http://185.132.134.159/sport3/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="חדשות בינלאומיות",Euronews English
+https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
 
-#EXTINF:-1 tvg-id="Sport4.il.alt" tvg-name="Sport 4 Alternate" tvg-logo="https://antifriz.tv/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png" group-title="שידורים חלופיים",ספורט 4 חלופי
-https://cors-anywhere.fly.dev/http://185.132.134.159/sport4/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="חדשות בינלאומיות",NHK World-Japan
+https://cdn.pishow.tv/ott/live/455/master.m3u8
 
-#EXTINF:-1 tvg-id="Sport5.il.alt" tvg-name="Sport 5 Alternate" tvg-logo="https://www.yes.co.il/media/cwbnbjzc/55_5sport_white-new.png?quality=80" group-title="שידורים חלופיים",ספורט 5 חלופי
-https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport-5
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="חדשות בינלאומיות",Scripps News
+https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 tvg-id="Sport5Plus.il.alt" tvg-name="Sport 5 Plus Alternate" tvg-logo="https://www.yes.co.il/media/fe4nfkhy/56_5plus_white-new.png?quality=80" group-title="שידורים חלופיים",ספורט 5 PLUS חלופי
-https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport5-plus
+#EXTINF:-1 tvg-id="SkyNews.ie@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="חדשות בינלאומיות",Sky News
+https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sport5Gold.il.alt" tvg-name="Sport 5 Gold Alternate" tvg-logo="https://www.yes.co.il/media/r1uldzru/57_5gold_white-new.png?quality=80" group-title="שידורים חלופיים",ספורט 5 GOLD חלופי
-https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport-5-gold
+#EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="חדשות בינלאומיות",TRT World
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sport5Live.il.alt" tvg-name="Sport 5 Live Alternate" tvg-logo="https://www.yes.co.il/media/t3bhztnq/58_5live_white-new.png?quality=80" group-title="שידורים חלופיים",ספורט 5 LIVE חלופי
-https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport5-live
+#EXTINF:-1 tvg-id="WION.in@SD" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="חדשות בינלאומיות",WION
+http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8
 
-#EXTINF:-1 tvg-id="One1.il.alt" tvg-name="ONE Alternate" tvg-logo="https://www.yes.co.il/media/eytkbegf/one.png?quality=80" group-title="שידורים חלופיים",ONE חלופי
-https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=one-sport1
+#EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae@HD" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="חדשות בינלאומיות",Sky News Arabia
+https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
