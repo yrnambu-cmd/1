@@ -52,7 +52,7 @@ https://n-121-6.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.liv
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport5Stars.il" tvg-name="Sport 5 Stars" tvg-logo="https://www.yes.co.il/media/nwnlscky/59_5stars_white-new.png?quality=80" group-title="ספורט",ספורט 5 STARS
-https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport5-star
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport5Max.il" tvg-name="Sport 5 Max" tvg-logo="https://www.yes.co.il/media/ea4h1fs5/60_5max_200x200.png?quality=80" group-title="ספורט",ספורט 5 MAX
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
@@ -61,16 +61,16 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playl
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="One1.il" tvg-name="ONE" tvg-logo="https://www.yes.co.il/media/eytkbegf/one.png?quality=80" group-title="ספורט",ONE
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_1_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=60000
+r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="One2.il" tvg-name="ONE 2" tvg-logo="https://www.yes.co.il/media/32md4sw1/one2.png?quality=80" group-title="ספורט",ONE 2
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_2_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=60000
+r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OneEdge.il" tvg-name="ONE EDGE" tvg-logo="https://www.yes.co.il/media/xq0bork1/70_one-edge_200-200.png" group-title="ספורט",ONE EDGE
-https://tv.embyil.tv:86/live/200/chunks.m3u8
+r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OneDoco.il" tvg-name="ONE DOCO" tvg-logo="https://www.yes.co.il/media/t04avcg1/one_doco.png" group-title="ספורט",ONE DOCO
-https://ua002.online24.pm:8443/1780/tracks-v1a1/mono.m3u8?token=011DA7D495A486A
+r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.il" tvg-name="Eurosport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Eurosport_1_Germany.png" group-title="ספורט",Eurosport 1
 https://tv.embyil.tv:86/live/180/chunks.m3u8
