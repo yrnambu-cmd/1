@@ -73,16 +73,17 @@ r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
 r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.il" tvg-name="Eurosport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Eurosport_1_Germany.png" group-title="ספורט",Eurosport 1
-https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.il" tvg-name="Eurosport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xspptq1458425622.png" group-title="ספורט",Eurosport 2
-https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en
+/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://freelogopng.com/images/all_img/1684148963espn-logo-white.png" group-title="ספורט",ESPN
-https://canais.fazoeli.co.za/fontes/smart/espn.m3u8
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://www.pngkey.com/png/full/210-2102273_espn-2-white-espn-logo.png" group-title="ספורט",ESPN 2
-https://canais.fazoeli.co.za/fontes/smart/espn2.m3u8
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="BeinSportsXtra.il" tvg-name="beIN Sports Xtra" tvg-logo="https://raw.githubusercontent.com/yrnambu-cmd/1/main/logos/bein-xtra.png" group-title="ספורט",beIN Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
@@ -112,7 +113,7 @@ https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/in
 https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/master.m3u8
 
 #EXTINF:-1 tvg-id="KanChinuchit23.il" tvg-name="Kan Chinuchit 23" tvg-logo="https://www.yes.co.il/media/2cdphicb/80_hinuchit-new.png?quality=80" group-title="ילדים",כאן חינוכית
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?renditions&fmp4
+https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel24.il" tvg-name="Channel 24" tvg-logo="https://www.yes.co.il/media/t2kh1luo/24_channel24-yesplus-white.png?quality=80" group-title="מוזיקה",ערוץ 24
 https://tv.embyil.tv:86/live/51/chunks.m3u8
