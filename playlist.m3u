@@ -4,10 +4,10 @@
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel12.il" tvg-name="Keshet 12" tvg-logo="https://www.yes.co.il/media/j3il1pcy/12_keshet.png?quality=80" group-title="חדשות",קשת 12
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=60000
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/keshet_12/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel13.il" tvg-name="Reshet 13" tvg-logo="https://www.yes.co.il/media/3gah1fim/13_reshet.png?quality=80" group-title="חדשות",רשת 13
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/reshet_13/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel14.il" tvg-name="Channel 14" tvg-logo="https://www.yes.co.il/media/d40bpqwx/14_channel14-white_yesplus.png?quality=80" group-title="חדשות",ערוץ 14
 https://n-121-6.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
