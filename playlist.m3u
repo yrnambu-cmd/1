@@ -46,7 +46,7 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport5Gold.il" tvg-name="Sport 5 Gold" tvg-logo="https://www.yes.co.il/media/r1uldzru/57_5gold_white-new.png?quality=80" group-title="ספורט",ספורט 5 GOLD
-https://n-121-6.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport5Live.il" tvg-name="Sport 5 Live" tvg-logo="https://www.yes.co.il/media/t3bhztnq/58_5live_white-new.png?quality=80" group-title="ספורט",ספורט 5 LIVE
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
@@ -76,8 +76,7 @@ r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.il" tvg-name="Eurosport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xspptq1458425622.png" group-title="ספורט",Eurosport 2
-https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en
-/live.livx/playlist.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://freelogopng.com/images/all_img/1684148963espn-logo-white.png" group-title="ספורט",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
