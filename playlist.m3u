@@ -31,7 +31,7 @@ https://ns02.tvnetil.cx/hls34/hot34.m3u8
 https://ns02.tvnetil.cx/hls57/hot57.m3u8
 
 #EXTINF:-1 tvg-id="Sport3.il" tvg-name="Sport 3" tvg-logo="https://antifriz.tv/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png" group-title="ספורט",ספורט 3
-https://sport-channels-yehuda.foggy-bead-6168.chatgpt.site/api/live?stream=sport-3
+https://ns02.tvnetil.cx/hls93/hot93.m3u8
 
 #EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="https://antifriz.tv/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png" group-title="ספורט",ספורט 4
 https://ns02.tvnetil.cx/hls83/hot58.m3u8
